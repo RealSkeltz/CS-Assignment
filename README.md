@@ -1,2 +1,3 @@
 # CS-Assignment
-CS Assignment
+
+This project is my assignment for the Computer Science for Business Analytics 2021 at the Eur in Rotterdam. In this code I perform duplicate detection on web shop data, using LSH and weighted Euclidian distance. The code is structured as follows. First all packages are imported, then the data is loaded and necessary functions are defined. Then the actual algorithm code starts. Each step is labelled for what it does. The code can be used by loading all functions, setting the parameters in step 4 and then running the code. Alternatively, the performance can be checked by running the bootstrap part of the code below. 
